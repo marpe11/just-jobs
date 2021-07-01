@@ -4,7 +4,19 @@
 .section-title{
     margin: 50px;
 }
-
+.features{
+  text-align: center;
+  padding-top: 200px;
+  
+}
+.propous{
+  padding-top: 250px;
+  padding-bottom: 200px;
+}
+.propous-text{
+  margin: 50px;
+  padding-bottom: 200px;
+}
 .card {
     width: 24rem;
     float: left;
@@ -73,9 +85,7 @@ p {
 }
 
 
-body {
-  background: #252525;
-}
+
 
 
 .container .search {
